@@ -37,8 +37,8 @@ classifiers = [
 # This will make it easy for people to find your deployed demo or source code when they
 # encounter your project in the wild.
 
-# [project.urls]
-# repository = "your github repository"
+[project.urls]
+repository = "https://github.com/vork/litmodel3d"
 # space = "your space url"
 
 [project.optional-dependencies]
